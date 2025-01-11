@@ -4,7 +4,7 @@ int main(){
  int positive,negative;
 
  
-    int arr[] = {3,4,2,8,9,1,6,5};
+    int arr[] = {93,0,7,15,93,65};
     for(int m = 0 ; m < 8 ; m++){
         positive = 0;
         negative = 0;
